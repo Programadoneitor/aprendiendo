@@ -1,4 +1,4 @@
 # Objetivos de la repositorio
 
-cambios desde el equipo.
+cambios desde github.
 
